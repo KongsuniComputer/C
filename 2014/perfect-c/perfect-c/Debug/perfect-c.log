@@ -1,0 +1,27 @@
+﻿빌드 시작: 2014-03-29 오후 12:39:26
+     1>2 노드의 "D:\영재원\중1\비주얼 C++\저장\perfect-c\perfect-c\perfect-c.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\perfect-c.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         D:\영재원\중1\비주얼 C++\Visal studio C2010 Express\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "perfect-c.c"
+         perfect-c.c
+     1>d:\영재원\중1\비주얼 c++\저장\perfect-c\perfect-c\perfect-c.c(3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         D:\영재원\중1\비주얼 C++\Visal studio C2010 Express\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\영재원\중1\비주얼 C++\저장\perfect-c\Debug\perfect-c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\perfect-c.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\영재원\중1\비주얼 C++\저장\perfect-c\Debug\perfect-c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\영재원\중1\비주얼 C++\저장\perfect-c\Debug\perfect-c.lib" /MACHINE:X86 "Debug\perfect-c.exe.embed.manifest.res"
+         "Debug\perfect-c.obj"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\perfect-c.exe.embed.manifest" /manifest "Debug\perfect-c.exe.intermediate.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         perfect-c.vcxproj -> D:\영재원\중1\비주얼 C++\저장\perfect-c\Debug\perfect-c.exe
+       FinalizeBuildStatus:
+         "Debug\perfect-c.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\perfect-c.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"D:\영재원\중1\비주얼 C++\저장\perfect-c\perfect-c\perfect-c.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.89
