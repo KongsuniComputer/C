@@ -1,3 +1,0 @@
-﻿  Q3.c
-Q3.obj : error LNK2005: _main already defined in Q2.obj
-C:\Users\Gyuha_wa_Vect0r\Documents\학교\4. 대학교\충북대학교\1학년\기초컴퓨터프로그래밍 10분반\OT & 1주차\과제\1 week report\Debug\1 week report.exe : fatal error LNK1169: one or more multiply defined symbols found
